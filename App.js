@@ -24,6 +24,7 @@ export default class App extends Component {
           <Button label='0'/>
           <Button label='.'/>
           <Button label='='/>
+          <Button label='='/>
         </View>
       </View>
     )
